@@ -3,11 +3,15 @@
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc"
 >
+<<<<<<< HEAD
     <Page
         title="{i18n>detailPageTitle}"
         showNavButton="true"
         navButtonPress=".onNavBack"
     >
+=======
+    <Page title="{i18n>detailPageTitle}">
+>>>>>>> dc19a9f2fe61d30c70d832c2a17cc323eb2882e2
         <ObjectHeader
             intro="{invoice>ShipperName}"
             title="{invoice>ProductName}"
