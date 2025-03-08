@@ -7,7 +7,7 @@ src/*/coverage/
 src/*/surefire-reports/
 /target
 /tmp
-
+/dist
 # Ignore default target directory for the npm package 'ui5-codecompletion'
 .ui5
 
